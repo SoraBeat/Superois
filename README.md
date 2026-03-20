@@ -32,11 +32,6 @@ A diferencia de otras herramientas de automatización, **SupeRois está diseñad
 <img width="1916" height="1031" alt="image" src="https://github.com/user-attachments/assets/05bce8f6-042e-473d-84a8-a979ffd3332f" />
 
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x400?text=Captura+Principal+de+SupeRois" alt="Interfaz Principal" />
-  <img src="https://via.placeholder.com/600x400?text=Editor+de+Combos" alt="Editor de Combos" />
-</div>
-
 ---
 
 ## 🚀 Instalación y Uso (Usuario Final)
