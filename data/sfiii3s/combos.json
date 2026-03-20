@@ -1,0 +1,50 @@
+{
+  "game_id": "sfiii3s",
+  "version": 1,
+  "combos": [
+    {
+      "name": "Haduken",
+      "character_id": "ryu",
+      "game_id": "sfiii3s",
+      "steps": [
+        {
+          "direction": "2",
+          "attacks": [],
+          "hold": false,
+          "delay_ms": 0
+        },
+        {
+          "direction": "3",
+          "attacks": [],
+          "hold": false,
+          "delay_ms": 0
+        },
+        {
+          "direction": "6",
+          "attacks": [],
+          "hold": false,
+          "delay_ms": 0
+        },
+        {
+          "direction": "5",
+          "attacks": [
+            "LP"
+          ],
+          "hold": false,
+          "delay_ms": 0
+        }
+      ],
+      "description": "",
+      "tags": [
+        "8"
+      ],
+      "hotkey": {
+        "type": "keyboard",
+        "key": "8"
+      },
+      "id": "ceeef880-593f-46c1-9001-ac3b414cc0d8",
+      "created_at": "2026-03-20T10:24:35.854782",
+      "modified_at": "2026-03-20T12:34:57.028704"
+    }
+  ]
+}

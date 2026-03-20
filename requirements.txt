@@ -1,0 +1,10 @@
+customtkinter>=5.2.2
+Pillow>=10.0.0
+pyautogui>=0.9.54
+pygame>=2.5.0
+keyboard>=0.13.5
+pydirectinput>=1.0.4
+
+# Virtual gamepad output (required for FightCade/FBNeo game input injection)
+# Also requires ViGEm Bus Driver: https://github.com/nefarius/ViGEmBus/releases
+vgamepad>=4.0.0

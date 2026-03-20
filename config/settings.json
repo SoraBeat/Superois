@@ -1,0 +1,55 @@
+{
+  "last_game": "sfiii3s",
+  "last_character": "",
+  "exec_delay": 0.0,
+  "pre_delay": 0,
+  "key_mappings": {
+    "sfiii3s": {
+      "dirs": {
+        "up": {
+          "type": "keyboard",
+          "key": "W"
+        },
+        "down": {
+          "type": "keyboard",
+          "key": "S"
+        },
+        "left": {
+          "type": "keyboard",
+          "key": "A"
+        },
+        "right": {
+          "type": "keyboard",
+          "key": "D"
+        }
+      },
+      "attacks": {
+        "LP": {
+          "type": "keyboard",
+          "key": "0"
+        },
+        "MP": {
+          "type": "keyboard",
+          "key": "Multi_key"
+        },
+        "HP": {
+          "type": "keyboard",
+          "key": "apostrophe"
+        },
+        "LK": {
+          "type": "keyboard",
+          "key": "questiondown"
+        },
+        "MK": {
+          "type": "keyboard",
+          "key": "braceright"
+        },
+        "HK": {
+          "type": "keyboard",
+          "key": "BackSpace"
+        }
+      }
+    }
+  },
+  "macro_trigger": {}
+}

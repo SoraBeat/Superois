@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip list:*)",
+      "Bash(py -3 --version)",
+      "Bash(py -3 -c \"import customtkinter; print\\(''customtkinter OK''\\)\")",
+      "Bash(py -3 -m pip list)"
+    ]
+  }
+}

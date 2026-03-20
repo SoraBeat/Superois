@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py -3 -c \"import tkinter; print\\(tkinter.TkVersion\\)\")",
+      "Bash(python -c \":*)",
+      "Bash(python3 -c \":*)",
+      "Bash(py -3 -c \":*)",
+      "Bash(py -3 -c \"import json; data=json.load\\(open\\(''c:/Users/Lauta/Desktop/SuperRoyce/config/games.json'',encoding=''utf-8''\\)\\); print\\(f''JSON valid. Games: {len\\(data[\"\"games\"\"]\\)}''\\)\")"
+    ]
+  }
+}
