@@ -27,7 +27,10 @@ A diferencia de otras herramientas de automatización, **SupeRois está diseñad
 
 ## 📸 Interfaz y Pantallas
 
-*(Agrega aquí tus capturas de pantalla de la app en la carpeta `docs/` o `images/`)*
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/d6ee3c50-7e8e-460d-b0cd-990e051bc1bd" />
+
+<img width="1916" height="1031" alt="image" src="https://github.com/user-attachments/assets/05bce8f6-042e-473d-84a8-a979ffd3332f" />
+
 
 <div align="center">
   <img src="https://via.placeholder.com/600x400?text=Captura+Principal+de+SupeRois" alt="Interfaz Principal" />
